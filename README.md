@@ -65,6 +65,7 @@ pnpm test
 
 Berikut adalah struktur dasar dari proyek ini:
 
+```plaintext
 .
 ├── public
 │   ├── index.html
