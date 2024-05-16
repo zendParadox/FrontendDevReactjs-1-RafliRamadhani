@@ -77,6 +77,7 @@ Berikut adalah struktur dasar dari proyek ini:
 │   └── ...
 ├── package.json
 └── ...
+```
 
 ## Lisensi
 
