@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 # ReactJS Project
 
 Ini adalah proyek ReactJS yang menggunakan versi React 18.2.0 dan Node.js 20.13.1. Proyek ini menggunakan pnpm sebagai package manager.
-</br>
+</br></br>
 
 ## Persyaratan
 
@@ -26,10 +26,10 @@ Pastikan Anda telah menginstal perangkat lunak berikut sebelum memulai proyek in
 1. **Clone repositori ini:**
 
     ```sh
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/zendParadox/FrontendDevReactjs-1-RafliRamadhani.git
     ```
     ```sh
-    cd repo-name
+    cd FrontendDevReactjs-1-RafliRamadhani
     ```
 
 2. **Install dependencies:**
@@ -67,25 +67,6 @@ Untuk menjalankan test suite, gunakan perintah berikut:
 
 ```sh
 pnpm test
-```
-</br>
-
-## Struktur Proyek
-
-Berikut adalah struktur dasar dari proyek ini:
-
-```plaintext
-.
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── components
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-└── ...
 ```
 </br>
 
