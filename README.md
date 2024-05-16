@@ -83,6 +83,3 @@ Berikut adalah struktur dasar dari proyek ini:
 
 Proyek ini dilisensikan di bawah MIT License.
 
-```sh
-Pastikan Anda mengganti `https://github.com/username/repo-name.git` dengan URL repositori GitHub Anda dan menyesuaikan informasi lain sesuai dengan proyek spesifik Anda. Selamat coding!
-```
