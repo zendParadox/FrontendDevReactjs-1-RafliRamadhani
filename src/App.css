@@ -1,0 +1,58 @@
+.card-body {
+  padding: 0;
+  margin: 0;
+}
+
+.rating {
+  color: #092a58;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.card-title {
+  margin: 0;
+}
+
+.card-text {
+  margin: 0;
+}
+
+.location,
+.open-status {
+  margin: 0;
+}
+
+.open-status .badge {
+  font-size: 0.875em;
+}
+
+.btn-custom {
+  background-color: #ff5733;
+  color: white;
+}
+
+.btn-custom:hover {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.fa-circle {
+  color: #05e5a0;
+  font-size: 12px;
+}
+
+.navbar-nav .btn {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar-nav .btn:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: #007bff;
+  color: white;
+}
